@@ -6,4 +6,4 @@ var random = (Math.random() * 10)
 
 var mod = 4 % 15
 
-var max 
+var max = Math.max(1,2,2,2,,2,2,2,20)
