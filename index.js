@@ -5,3 +5,5 @@ var multiply = var1 * var2
 var random = (Math.random() * 10)
 
 var mod = 4 % 15
+
+var max 
