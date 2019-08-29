@@ -4,4 +4,4 @@ var var2 = 2
 var multiply = var1 * var2 
 var random = (Math.random() * 10)
 
-var mod = 1 % 4
+var mod = 4 % 1
