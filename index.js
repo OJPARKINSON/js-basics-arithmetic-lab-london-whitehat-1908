@@ -1,5 +1,5 @@
 // Write your code here
-let var1 = 31
+var var1 = 31
 let var2 = 2
 multiply = var1 * var2 
 random = (Math.random() * 10)
